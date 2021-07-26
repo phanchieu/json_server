@@ -15,11 +15,14 @@ $ npm i json-server
 # Create a database.json file with some data
 
 {
-"course": [
+"users": [
 {
 "id": 1,
-"name": "Kiến thức cơ bản, tổng quan cho người mới bắt đầu",
-"description": "Kiến thức cơ bản dành cho dân IT, không phân biệt bạn theo Front-end, Back-end hay Devops"
+"name": "abc",
+"phone": "0000000",
+"Date_of_birth": "11/11/2021",
+"email": "abc@gmail.com",
+"password": "123123",
 }
 ]
 }
